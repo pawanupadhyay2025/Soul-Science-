@@ -1,7 +1,9 @@
 The Role of the Soul in Living and Non-Living Systems: A Study in Soul Science
 
 Author: Pawan Upadhyay
+
 Affiliation: Founder, Soul Science
+
 Date: 16-01-2017
 
 
