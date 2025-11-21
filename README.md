@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17668534.svg)](https://doi.org/10.5281/zenodo.17668534)
 
+
 # 1st Research Paper 
 
 # The Role of the Soul in Living and Non-Living Systems: A Study in Soul Science
@@ -529,4 +530,5 @@ Spiritual reflection, and
 Speculative scientific inquiry into the deeper origins of life.
 
 
-
+## Citation  
+Upadhyay P. (2025). *The Role of Soul in the ’human body and plant body’* [Journal article]. Zenodo. https://doi.org/10.5281/zenodo.17668534
