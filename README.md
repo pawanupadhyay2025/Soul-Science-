@@ -1,7 +1,7 @@
 
-#1st Research Paper 
+# 1st Research Paper 
 
-#The Role of the Soul in Living and Non-Living Systems: A Study in Soul Science
+# The Role of the Soul in Living and Non-Living Systems: A Study in Soul Science
 
 Author: Pawan Upadhyay
 
@@ -89,10 +89,10 @@ References
 2. Upadhyay, P. (2017). Introduction to Soul Science. Unpublished Manuscript.
 
 
-#2nd Research Paper 
+# 2nd Research Paper 
 
 
-#The Soul as the Source of Biological Energy and Cellular Integration
+# The Soul as the Source of Biological Energy and Cellular Integration
 
 Author: Pawan Upadhyay
 
