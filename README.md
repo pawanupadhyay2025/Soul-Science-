@@ -9,7 +9,7 @@ Author: Pawan Upadhyay
 
 Email :- pawanupadhyay28@hotmail.com
 
-Affiliation: Founder, Soul Science
+Affiliation: 'Founder and discoverer' of Soul Science
 
 Date: 16-01-2017
 
