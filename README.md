@@ -530,4 +530,5 @@ Spiritual reflection, and
 Speculative scientific inquiry into the deeper origins of life.
 
 
-## Upadhyay, P. K. (2025). The Role of Soul in the 'human body and plant body' (Soul Science by Pawan Upadhyay). https://doi.org/10.5281/zenodo.17668534
+## Citation
+Upadhyay, P. K. (2025). The Role of Soul in the 'human body and plant body' (Soul Science by Pawan Upadhyay). https://doi.org/10.5281/zenodo.17668534
