@@ -532,3 +532,10 @@ Speculative scientific inquiry into the deeper origins of life.
 
 ## Citation
 Upadhyay, P.(2025). The Role of Soul in the 'human body and plant body' (Soul Science by Pawan Upadhyay). https://doi.org/10.5281/zenodo.17668534
+
+
+# Discoveries by Pawan Upadhyay
+
+Official research page:
+
+🔗 https://sites.google.com/view/discoveriesbypawanupadhyay/research-projects
