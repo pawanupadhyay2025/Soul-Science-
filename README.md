@@ -548,3 +548,5 @@ Official research page:
 🔗 https://sites.google.com/view/discoveriesbypawanupadhyay/research-projects
 
 [![OSF](https://img.shields.io/badge/OSF-Q34UR-blue?logo=osf)](https://doi.org/10.17605/OSF.IO/Q34UR)
+
+[![Internet Archive](https://img.shields.io/badge/Archive-Soul%20Science-blue?logo=internetarchive)](https://archive.org/details/soulsciencebypawanupadhyay)
