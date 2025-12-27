@@ -544,3 +544,5 @@ Upadhyay, P.(2025). The Role of Soul in the 'human body and plant body' (Soul Sc
 Official research page:
 
 🔗 https://sites.google.com/view/discoveriesbypawanupadhyay/research-projects
+
+[![OSF](https://img.shields.io/badge/OSF-Q34UR-blue?logo=osf)](https://doi.org/10.17605/OSF.IO/Q34UR)
