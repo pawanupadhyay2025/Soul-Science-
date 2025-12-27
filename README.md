@@ -1,6 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17668534.svg)](https://doi.org/10.5281/zenodo.17668534)
 
 
+[![OSF](https://img.shields.io/badge/OSF-Research-green?logo=osf)](https://doi.org/10.17605/OSF.IO/Q34UR)
+
+
 # 1st Research Paper 
 
 # The Role of the Soul in Living and Non-Living Systems: A Study in Soul Science
