@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17668534.svg)](https://doi.org/10.5281/zenodo.17668534)
-
 
 [![OSF](https://img.shields.io/badge/OSF-Research-green?logo=osf)](https://doi.org/10.17605/OSF.IO/Q34UR)
 
@@ -536,9 +534,6 @@ Spiritual reflection, and
 
 Speculative scientific inquiry into the deeper origins of life.
 
-
-## Citation
-Upadhyay, P.(2025). The Role of Soul in the 'human body and plant body' (Soul Science by Pawan Upadhyay). https://doi.org/10.5281/zenodo.17668534
 
 
 # Discoveries by Pawan Upadhyay
