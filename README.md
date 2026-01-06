@@ -545,3 +545,10 @@ Official research page:
 [![OSF](https://img.shields.io/badge/OSF-Q34UR-blue?logo=osf)](https://doi.org/10.17605/OSF.IO/Q34UR)
 
 [![Internet Archive](https://img.shields.io/badge/Archive-Soul%20Science-blue?logo=internetarchive)](https://archive.org/details/soulsciencebypawanupadhyay)
+
+![Copyright](https://img.shields.io/badge/Copyright-©%202025–2026%20Pawan%20Upadhyay-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green)
+
+Copyright © 2025–2026 Pawan Upadhyay  
+Licensed under Creative Commons Attribution–NoDerivatives 4.0 International  
+https://creativecommons.org/licenses/by-nd/4.0/
