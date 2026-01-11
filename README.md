@@ -4,6 +4,8 @@
 
 [![Archive](https://img.shields.io/badge/Archive-Pawan_Upadhyay-blue?logo=internetarchive)](https://archive.org/details/soulsciencebypawanupadhyay)
 
+[![Research Resume](https://img.shields.io/badge/Research%20Resume-Archive.org-blue?style=flat-square&logo=internetarchive)](https://archive.org/details/my-research-resume)
+
 # 1st Research Paper 
 
 # The Role of the Soul in Living and Non-Living Systems: A Study in Soul Science
